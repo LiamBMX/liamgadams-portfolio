@@ -28,10 +28,10 @@ function App() {
             <a href="discord://discordapp.com/users/limbolimn" className="text-[#5865F2] hover:text-[#4752C4] transition-colors">
               <MessageCircle className="w-5 h-5" />
             </a>
-            <button className="bg-gradient-to-r from-blue-500 to-purple-500 text-white px-4 py-2 rounded-md hover:from-blue-600 hover:to-purple-600 transition-all flex items-center gap-2">
+{/*             <button className="bg-gradient-to-r from-blue-500 to-purple-500 text-white px-4 py-2 rounded-md hover:from-blue-600 hover:to-purple-600 transition-all flex items-center gap-2">
               <Mail className="w-4 h-4" />
               Contact
-            </button>
+            </button> */}
           </div>
         </div>
       </nav>
