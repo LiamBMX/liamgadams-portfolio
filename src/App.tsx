@@ -17,7 +17,7 @@ function App() {
       {/* Navbar */}
       <nav className="fixed w-full bg-white/80 backdrop-blur-sm z-50 border-b">
         <div className="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
-          <span className="font-bold text-xl">Portfolio</span>
+          <span className="font-bold text-xl">Liam Adams.</span>
           <div className="flex gap-6 items-center">
             <button onClick={() => scrollToSection('about')} className="hover:text-blue-600 transition-colors">About</button>
             <button onClick={() => scrollToSection('projects')} className="hover:text-blue-600 transition-colors">Projects</button>
