@@ -101,7 +101,7 @@ function App() {
                 title: "MindBloom",
                 description: "A neurodivergence-focused task management platform, gamifying productivity. Born from NoteNexus, this is my proudest project.",
                 icon: "🌱",
-                tags: ["React", "Node.js", "MongoDB"],
+                tags: ["React", "Node.js", "Appwrite"],
                 link: "#"
               },
               {
@@ -115,7 +115,7 @@ function App() {
                 title: "SpineShiver Productions",
                 description: "AI-powered YouTube channel generating horror stories from script to voiceover.",
                 icon: "👻",
-                tags: ["AI", "Python", "AWS"],
+                tags: ["AI", "Python", "HTML", "CSS"],
                 link: "#"
               }
             ].map((project, index) => (
