@@ -102,21 +102,21 @@ function App() {
                 description: "A neurodivergence-focused task management platform, gamifying productivity. Born from NoteNexus, this is my proudest project.",
                 icon: "🌱",
                 tags: ["React", "Node.js", "Appwrite"],
-                link: "#"
+                link: "https://mindbloomapp.com"
               },
               {
                 title: "RedGen",
                 description: "Automated faceless portrait videos for TikTok, distributed via a subscription service.",
                 icon: "🎥",
                 tags: ["Python", "AI", "FFmpeg"],
-                link: "#"
+                link: "https://discord.gg/fhDFRaZ3aZ"
               },
               {
                 title: "SpineShiver Productions",
                 description: "AI-powered YouTube channel generating horror stories from script to voiceover.",
                 icon: "👻",
                 tags: ["AI", "Python", "HTML", "CSS"],
-                link: "#"
+                link: "https://www.youtube.com/@SpineShiverProductionz"
               }
             ].map((project, index) => (
               <div key={index} className="bg-white rounded-xl p-8 shadow-lg hover:shadow-xl transition-all border border-gray-100">
