@@ -22,7 +22,7 @@ function App() {
             <button onClick={() => scrollToSection('about')} className="hover:text-blue-600 transition-colors">About</button>
             <button onClick={() => scrollToSection('projects')} className="hover:text-blue-600 transition-colors">Projects</button>
             <button onClick={() => scrollToSection('skills')} className="hover:text-blue-600 transition-colors">Skills</button>
-            <a href="https://github.com/yourusername" className="hover:text-blue-600 transition-colors">
+            <a href="https://github.com/liambmx" className="hover:text-blue-600 transition-colors">
               <Github className="w-5 h-5" />
             </a>
             <a href="discord://discordapp.com/users/limbolimn" className="text-[#5865F2] hover:text-[#4752C4] transition-colors">
@@ -167,7 +167,7 @@ function App() {
 
       {/* Footer */}
       <footer className="py-8 text-center text-gray-500 border-t">
-        <p>© {new Date().getFullYear()} Liam. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} LiamGAdams. All rights reserved.</p>
       </footer>
     </div>
   );
